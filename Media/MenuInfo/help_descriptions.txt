@@ -1,0 +1,15 @@
+Move up:
+Move down:
+Move left:
+Move right:
+Shoot:
+Melee:
+Equip flashlight:
+Equip knife:
+Equip pistol:
+Equip rifle:
+Reload:
+Pause:
+Zoom camera in:
+Zoom camera out:
+Show FPS overlay:

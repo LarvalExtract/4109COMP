@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.vs/
+Template/
+bin/
+Week01/
+Week02/
+Week03/
+Week04/
+Assignment/obj/

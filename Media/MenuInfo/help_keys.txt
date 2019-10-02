@@ -1,0 +1,15 @@
+W
+S
+A
+D
+Left mouse button
+Right mouse button
+Q
+1
+2
+3
+R
+Escape
+Mouse scroll up
+Mouse scroll down
+F1

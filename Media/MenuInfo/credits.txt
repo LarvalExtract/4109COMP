@@ -1,0 +1,16 @@
+[Lead Programmer]
+Tom Walters
+
+[Artwork]
+Player sprites: https://opengameart.org/content/animated-top-down-survivor-player
+Zombie sprits: https://opengameart.org/content/animated-top-down-zombie
+Blood splatter: https://opengameart.org/content/blood-effect-sprite-sheet
+Main menu background: https://wall.alphacoders.com/big.php?i=77363
+Title screen background: https://images2.alphacoders.com/500/500427.jpg
+Level textures: https://opengameart.org/content/tileable-bricks-ground-textures-set-1
+Weapon icons: https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?item=1e4z516f7i506d9u5a
+Bullets: https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?item=915538rk480qj511236
+
+[Fonts]
+SegoeMarker: https://www.azfonts.net/families/segoe-marker.html
+OctoberCrow: https://www.dafont.com/october-crow.font
